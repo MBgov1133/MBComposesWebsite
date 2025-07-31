@@ -2,6 +2,7 @@ body {
     margin: 0;
     font-family: Arial, sans-serif;
     background-color: #007BFF; 
+    background-image: linear-gradient(135deg, #007BFF, #007BFF, #f2f2f2);
     color: #222;
     height: 100%;
 }
@@ -10,25 +11,15 @@ body {
     position: sticky;
     top: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: #1E293B;
+    text-align: center;
 }
 
 #navbar a {
-float: left;
-display: block;
-color: #f2f2f2;
-text-align: center;
-padding: 14px;
-text-decoration: none;
-}
-
-#navbar p {
-    float: right;
-    display: block;
+    display: inline-block;
     color: #f2f2f2;
     text-align: center;
-    padding-left: 7px;
-    padding-right: 7px;
+    padding: 14px;
     text-decoration: none;
 }
 
@@ -36,7 +27,17 @@ text-decoration: none;
     background-color: #007BFF;
 }
 
+
 #main {
+    background-color: #f8f8f8; 
+    width: 60%;
+    margin: 2em auto;
+    padding: 4em;
+    border-radius: 50px;
+    /*box-shadow: 50vh 0 0 0 #f8f8f8;*/
+}
+
+#mainProjectPage {
     background-color: #f8f8f8; 
     width: 60%;
     margin: 2em auto;
@@ -47,15 +48,14 @@ text-decoration: none;
 
 #asideImage {
     float: right;
-    width: 440px;
-    height: 510px;
+    width: 40%;
+    height: auto;
     padding: 50px
 }
 
 #main h1 {
     font-size: 2em;
     margin-bottom: 0.5em;
-    text-decoration: underline;
 }
 
 #main h2 {
@@ -80,28 +80,116 @@ text-decoration: none;
     background-color: #007BFF;
 }
 
+#home {
+    width: 50%;
+    display: inline-block;
+}
+
+#profileImage {
+    border-radius: 50%;
+    width: 50%;
+    height: 50%;
+    padding: 25%;
+    padding-bottom: 5%;
+    padding-top: 5%;
+    text-align: center;
+}
+#homeTitle {
+    text-align: center;
+    color: white;
+}
+
+#albums {
+    display: inline-block;
+    flex-direction: column;
+    gap: 1.5em;
+}
+
+.featuredAlbum {
+    padding: 5em;
+    padding-top: 2em;
+    padding-bottom: 3em;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    max-width: 500px;
+}
+
+.featuredAlbum:hover {
+    transform: translateY(-5px);
+}
+
+.featuredAlbum a {
+    text-decoration: none;
+    color: white;
+}
+
+.featuredAlbum img {
+    width: 40%;
+    height: 40%;
+    border-radius: 10px;
+}
+
+.featuredAlbum h3 {
+    margin: 0;
+    color: white;
+    font-size: 1.1em;
+    padding-left: 5em;
+}
+
 .project-card {
     background: white;
-    border-radius: 10px;
     padding: 2rem;
+    padding-top: 0;
+    margin-left:-4rem;
     margin-bottom: 2rem;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;  
+    border-left: 4rem solid #3498db;
+    border-top: 0.5rem solid #3498db;
+    border-bottom: 0.5rem solid #3498db;
 }
 
 .project-card h3 {
     color: #2c3e50;
     font-size: 1.5rem;
     margin-bottom: 1rem;
-    border-bottom: 2px solid #3498db;
-    padding-bottom: 0.5rem;
+    border-bottom: 4px solid #3498db;
+    padding: 0.5rem;
+}
+
+.project-card h3 a {
+    color: #2c3e50;
+    text-decoration: none;
+}
+
+.project-card h3 a:hover {
+    color: #3498db;
+    text-decoration: underline;
+}
+
+.project-content {
+    display: flex;
+    gap: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.project-artwork {
+    flex: 0 0 200px;
+}
+
+.project-artwork img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 }
 
 .project-meta {
     background-color: #f8f9fa;
     padding: 1rem;
     border-radius: 5px;
-    margin-bottom: 1rem;
+    flex: 1;
 }
 
 .project-meta p {
@@ -110,6 +198,15 @@ text-decoration: none;
 
 .project-meta p:last-child {
     margin-bottom: 0;
+}
+
+.project-meta a {
+    color: #3498db;
+    text-decoration: none;
+}
+
+.project-meta a:hover {
+    text-decoration: underline;
 }
 
 .project-description {
@@ -134,6 +231,23 @@ text-decoration: none;
     font-size: 0.9rem;
     margin-right: 0.5rem;
     margin-bottom: 0.5rem;
+    text-decoration: none;
+}
+
+.awards a {
+    text-decoration: none;
+}
+
+.award:hover {
+    background-color: #e67e22;
+}
+
+.project-embed {
+    margin-top: 1.5rem;
+    text-align: center;
+}
+.project-embed iframe {
+        width: 45%;
 }
 
 footer {
@@ -146,4 +260,91 @@ footer {
 }
 footer p {
     color: white;
+    float: left;
+    padding: 2em;
+    text-align: right;
+}
+
+footer img {
+    float: right;
+    height: 2em;
+    width: auto;
+    padding: 0.5em;
+    padding-top: 4em;
+    padding-bottom: 4em;
+}
+
+@media (max-width: 768px) {
+    .project-content {
+        flex-direction: column;
+    }
+    
+    .project-artwork {
+        flex: none;
+        align-self: center;
+    }
+    
+    .project-artwork img {
+        max-width: 200px;
+    }
+    
+    .project-embed iframe {
+        width: 100%;
+        height: 250px;
+    }
+    
+    #filters {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    footer p {
+        clear: right;
+    }
+
+    footer img {
+        clear: left;
+    }
+
+        #home {
+        width: 100%;
+        max-width: 100%;
+    }
+
+    #profileImage {
+        width: 60%;
+        height: auto;
+        margin: 0 auto 1em;
+    }
+
+    #albums {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+        gap: 1.5em;
+    }
+
+    .featuredAlbum {
+        flex-direction: column;
+        padding: 2em;
+        max-width: 90%;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .featuredAlbum img {
+        width: 80%;
+        height: auto;
+        margin-bottom: 1em;
+    }
+
+    .featuredAlbum h3 {
+        padding-left: 0;
+    }
+}
+
+p, h1, h2, h3 {
+    font-family: 'Josefin Sans', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
