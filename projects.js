@@ -411,7 +411,7 @@ function displayProjects(projects) {
                         ${publisherHTML}
                         <p><strong>Release Date:</strong> ${project.dateString || project.releaseDate}</p>
                         ${project.japaneseReleaseDate ? `<p><strong>Japanese Release:</strong> ${project.japaneseReleaseDate}</p>` : ''}
-                        <p><strong>My Role:</strong> ${project.role}</p>
+                        <p><strong>Role:</strong> ${project.role}</p>
                     </div>
                 </div>
                 <div class="project-description">
