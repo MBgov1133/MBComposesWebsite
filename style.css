@@ -349,6 +349,11 @@ footer img {
     }
 }
 
+iframe {
+    background-color: white;
+    color: white;
+}
+
 p, h1, h2, h3 {
     font-family: 'Josefin Sans', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }

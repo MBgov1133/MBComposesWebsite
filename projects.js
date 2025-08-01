@@ -66,7 +66,7 @@ const projectsData = [
         "releaseDate": "28/06/2025",
         "dateString": "28 June, 2025",
         "role": "Project organiser, music arrangement, video editor",
-        "description": "Perfect Arrange Works ~Episode III~ is a fan-tribute album celebrating the rich 25+ year history of music from Xenogears, Xenosaga and the Xenoblade Chronicles series. Part two of a three-part album series project organised by MB.",
+        "description": "Perfect Arrange Works ~Episode III~ is a fan-tribute album celebrating the rich 25+ year history of music from Xenogears, Xenosaga and the Xenoblade Chronicles series. The final part of a three-part album series project organised by MB.",
         "embed": "https://youtu.be/KoKUesnu5jw",
     },
     {
