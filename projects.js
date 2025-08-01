@@ -31,6 +31,32 @@
 // Project database
 const projectsData = [
     {
+        "title": "Everlasting Ethos",
+        "category": ["Resonant Union"],
+        "link": "https://youtu.be/POahcc8x-fE",
+        "artwork": "images/AlbumCovers/Everlasting Ethos.png",
+        "publisher": "Resonant Union",
+        "developerLink": "https://www.resonantunion.com/",
+        "releaseDate": "19/07/2025",
+        "dateString": "19 July, 2025",
+        "role": "Music arrangement (Track 2-11 \"Clover\")", video editor",
+        "description": "Perfect Arrange Works ~Episode II~ is a fan-tribute album celebrating the rich 25+ year history of music from Xenogears, Xenosaga and the Xenoblade Chronicles series. Part two of a three-part album series project organised by MB.",
+        "embed": "https://youtu.be/KoKUesnu5jw",
+    },
+    {
+        "title": "Perfect Arrange Works ~Episode III~",
+        "category": ["Resonant Union"],
+        "link": "https://youtu.be/KoKUesnu5jw",
+        "artwork": "images/AlbumCovers/Perfect Arrange Works ~Episode III~.png",
+        "publisher": "Resonant Union",
+        "developerLink": "https://www.resonantunion.com/",
+        "releaseDate": "28/06/2025",
+        "dateString": "28 June, 2025",
+        "role": "Project organiser, music arrangement, video editor",
+        "description": "Perfect Arrange Works ~Episode II~ is a fan-tribute album celebrating the rich 25+ year history of music from Xenogears, Xenosaga and the Xenoblade Chronicles series. Part two of a three-part album series project organised by MB.",
+        "embed": "https://youtu.be/KoKUesnu5jw",
+    },
+    {
         "title": "The Last Waltz",
         "category": ["Video Game"],
         "link": "https://store.steampowered.com/app/3693000/The_Last_Waltz/",
@@ -40,8 +66,8 @@ const projectsData = [
         "releaseDate": "1/12/2025",
         "dateString": "Q4 2025",
         "role": "Music composition, lyrics, mastering engineer",
-        "description": "The Last Waltz is a full-scale visual novel about an incredible niche sport; the first visual novel to be based on Dancesport. Featuring Over 30 stunning CGs, a soundtrack of more than 35 pieces of authentic Dancesport music, and integrating real footage of professional dancers and competitions. <br> The score for this game was written in collaboration with composers Gelby and Jof, spanning multiple genres and styles of dancesport music all written authentically to the medium. I had the opportunity to write three vocal themes for this game in collaboration with Rita Kamishiro, AiKa and Saskia Mascitti. ",
-        "additionalInfo": "Collaborated with Gelby and Jof; three vocal themes with Rita Kamishiro, AiKa, and Saskia Mascitti."
+        "description": "The Last Waltz is a full-scale visual novel about an incredible niche sport; the first visual novel to be based on Dancesport. Featuring Over 30 stunning CGs, a soundtrack of more than 35 pieces of authentic Dancesport music, and integrating real footage of professional dancers and competitions. <br> The score for this game was written in collaboration with composers Gelby and Jof, spanning multiple genres and styles of dancesport music all written authentically to the medium. MB had the opportunity to write three vocal themes for this game in collaboration with the talented Rita Kamishiro, Aika Sekiyama (関山 藍果) and Saskia Mascitti. ",
+        "additionalInfo": "Collaborated with Gelby and Jof; three vocal themes with Rita Kamishiro, Aika Sekiyama (関山 藍果), and Saskia Mascitti."
     },
     {
         "title": "King of Ping Pong: MEGAMIX",
@@ -50,7 +76,7 @@ const projectsData = [
         "artwork": "images/ProjectArtwork/King of Ping Pong.webp",
         "developer": "Suspicious Jam",
         "developerLink": "https://suspiciousjam.com.au/",
-        "releaseDate": "15/11/2024",
+        "releaseDate": "16/04/2025",
         "dateString": "15 November, 2024 (JP: 16 April, 2025)",
         "role": "Japanese translation & localisation",
         "description": "Table tennis meets Arcade Fighter in this fast-paced action-packed journey to become the best in the world. Defeat a series of quirky characters utilizing quick wit and precise timing to secure victory in increasingly challenging matches!"
@@ -136,7 +162,7 @@ const projectsData = [
         "embed": "https://youtu.be/t6GVWpQs5vc"
     },
     {
-        "title": "Resonant Union Perfect Arrange Works ~Episode II~",
+        "title": "Perfect Arrange Works ~Episode II~",
         "category": ["Resonant Union"],
         "link": "https://youtu.be/fN1gEkX_eK4",
         "artwork": "images/AlbumCovers/Perfect Arrange Works ~Episode II~.png",
@@ -145,7 +171,7 @@ const projectsData = [
         "releaseDate": "1/12/2024",
         "dateString": "1 December, 2024",
         "role": "Project organiser, music arrangement, lyricist, Japanese translation",
-        "description": "Perfect Arrange Works ~Episode II~ is a fan-tribute album celebrating the rich 25+ year history of music from Xenogears, Xenosaga and the Xenoblade Chronicles series. Part two of a three-part album series project organised by myself.",
+        "description": "Perfect Arrange Works ~Episode II~ is a fan-tribute album celebrating the rich 25+ year history of music from Xenogears, Xenosaga and the Xenoblade Chronicles series. Part two of a three-part album series project organised by MB.",
         "embed": "https://youtu.be/fN1gEkX_eK4"
     },
     {
@@ -176,7 +202,7 @@ const projectsData = [
         "awardLinks": "https://vgmcon.org/2025-game-music-remix-awards/"
     },
     {
-        "title": "Resonant Union Perfect Arrange Works ~Episode I~",
+        "title": "Perfect Arrange Works ~Episode I~",
         "category": ["Resonant Union"],
         "link": "https://youtu.be/wHjv8pEAvDM",
         "artwork": "images/AlbumCovers/Perfect Arrange Works ~Episode I~.png",
@@ -185,7 +211,7 @@ const projectsData = [
         "releaseDate": "1/12/2024",
         "dateString": "1 December, 2024",
         "role": "Project organiser, music arrangement",
-        "description": "Perfect Arrange Works ~Episode I~ is a fan-tribute album celebrating the rich 25+ year history of music from Xenogears, Xenosaga and the Xenoblade Chronicles series. Part one of a three-part album series project organised by myself.",
+        "description": "Perfect Arrange Works ~Episode I~ is a fan-tribute album celebrating the rich 25+ year history of music from Xenogears, Xenosaga and the Xenoblade Chronicles series. Part one of a three-part album series project organised by MB.",
         "embed": "https://youtu.be/wHjv8pEAvDM"
     },
     {
@@ -278,7 +304,7 @@ const projectsData = [
         "releaseDate": "22/2/2025",
         "dateString": "22 February, 2025",
         "role": "Music composition (Track 7 \"A Walk Through the Harbour at Sundown\")",
-        "description": "The Story of MIDIport is a concept album that tells the story of a city called MIDIport, through MIDI compositions: beginning as a fishing village, growing into a thriving metropolis, and eventually succumbing to dystopic ruins. <br> I had the opportunity to write an original track for this album using sounds exclusively from the KORG Triton VST, envisioning the ocean horizon viewed from the metallic harbour of a technologically developing city.",
+        "description": "The Story of MIDIport is a concept album that tells the story of a city called MIDIport, through MIDI compositions: beginning as a fishing village, growing into a thriving metropolis, and eventually succumbing to dystopic ruins. <br> MB had the opportunity to write an original track for this album using sounds exclusively from the KORG Triton VST, envisioning the ocean horizon viewed from the metallic harbour of a technologically developing city.",
         "additionalInfo": "Composed using sounds exclusively from the KORG Triton VST."
     },
     {
