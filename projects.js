@@ -151,7 +151,7 @@ const projectsData = [
     },
     {
         "title": "I Eat Therefore I Am",
-        "category": ["Video Game"],
+        "category": ["Game Jam"],
         "link": "https://globalgamejam.org/games/2024/cooking-storm-teacup-1",
         "artwork": "images/ProjectArtwork/I Eat Therefore I Am.jpg",
         "releaseDate": "1/2/2024",
