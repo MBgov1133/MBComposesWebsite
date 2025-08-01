@@ -40,8 +40,8 @@ const projectsData = [
         "releaseDate": "19/07/2025",
         "dateString": "19 July, 2025",
         "role": "Music arrangement (Track 2-11 \"Clover\")", video editor",
-        "description": "Perfect Arrange Works ~Episode II~ is a fan-tribute album celebrating the rich 25+ year history of music from Xenogears, Xenosaga and the Xenoblade Chronicles series. Part two of a three-part album series project organised by MB.",
-        "embed": "https://youtu.be/KoKUesnu5jw",
+        "description": "Everlasting Ethos is a fan-tribute album to the Mega Man Zero series of video games.",
+        "embed": "https://youtu.be/POahcc8x-fE",
     },
     {
         "title": "Perfect Arrange Works ~Episode III~",
