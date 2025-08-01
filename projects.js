@@ -39,7 +39,7 @@ const projectsData = [
         "developerLink": "https://www.resonantunion.com/",
         "releaseDate": "19/07/2025",
         "dateString": "19 July, 2025",
-        "role": "Music arrangement (Track 2-11 \"Clover\")", video editor",
+        "role": "Music arrangement (Track 2-11 \"Clover\"), video editor",
         "description": "Everlasting Ethos is a fan-tribute album to the Mega Man Zero series of video games.",
         "embed": "https://youtu.be/POahcc8x-fE",
     },
