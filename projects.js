@@ -114,7 +114,7 @@ const projectsData = [
         "link": "https://joshuareason.itch.io/round-control",
         "artwork": "images/ProjectArtwork/Round Control title theme.png",
         "developers": ["Adam", "Ellie", "Josh", "Talia"],
-        "releaseDate": "February 2025",
+        "releaseDate": "1/2/2025",
         "dateString": "February 2025",
         "role": "Music composition",
         "description": "Round Control to Major Rond! Use your sword to be the last Astronaut left.",
@@ -371,6 +371,7 @@ document.addEventListener('DOMContentLoaded', function() {
     displayProjects(projectsData);
     setupFilters();
     setupSorting();
+    sortProjects(projectsData);
 });
 
 function displayProjects(projects) {
