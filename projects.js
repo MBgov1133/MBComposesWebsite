@@ -31,6 +31,19 @@
 // Project database
 const projectsData = [
     {
+        "title": "The Last Waltz",
+        "category": ["Video Game"],
+        "link": "https://store.steampowered.com/app/3693000/The_Last_Waltz/",
+        "artwork": "images/ProjectArtwork/The Last Waltz.jpg",
+        "developer": "DigitallyDownloaded.net",
+        "developerLink": "http://DigitallyDownloaded.net",
+        "releaseDate": "1/12/2025",
+        "dateString": "Q4 2025",
+        "role": "Music composition, lyrics, mastering engineer",
+        "description": "The Last Waltz is a full-scale visual novel about an incredible niche sport; the first visual novel to be based on Dancesport. Featuring Over 30 stunning CGs, a soundtrack of more than 35 pieces of authentic Dancesport music, and integrating real footage of professional dancers and competitions. <br> The score for this game was written in collaboration with composers Gelby and Jof, spanning multiple genres and styles of dancesport music all written authentically to the medium. MB had the opportunity to write three vocal themes for this game in collaboration with the talented Rita Kamishiro, Aika Sekiyama (関山 藍果) and Saskia Mascitti. ",
+        "additionalInfo": "Collaborated with Gelby and Jof; three vocal themes with Rita Kamishiro, Aika Sekiyama (関山 藍果), and Saskia Mascitti."
+    },
+    {
         "title": "Everlasting Ethos",
         "category": ["Resonant Union"],
         "link": "https://youtu.be/POahcc8x-fE",
@@ -55,19 +68,6 @@ const projectsData = [
         "role": "Project organiser, music arrangement, video editor",
         "description": "Perfect Arrange Works ~Episode II~ is a fan-tribute album celebrating the rich 25+ year history of music from Xenogears, Xenosaga and the Xenoblade Chronicles series. Part two of a three-part album series project organised by MB.",
         "embed": "https://youtu.be/KoKUesnu5jw",
-    },
-    {
-        "title": "The Last Waltz",
-        "category": ["Video Game"],
-        "link": "https://store.steampowered.com/app/3693000/The_Last_Waltz/",
-        "artwork": "images/ProjectArtwork/The Last Waltz.jpg",
-        "developer": "DigitallyDownloaded.net",
-        "developerLink": "http://DigitallyDownloaded.net",
-        "releaseDate": "1/12/2025",
-        "dateString": "Q4 2025",
-        "role": "Music composition, lyrics, mastering engineer",
-        "description": "The Last Waltz is a full-scale visual novel about an incredible niche sport; the first visual novel to be based on Dancesport. Featuring Over 30 stunning CGs, a soundtrack of more than 35 pieces of authentic Dancesport music, and integrating real footage of professional dancers and competitions. <br> The score for this game was written in collaboration with composers Gelby and Jof, spanning multiple genres and styles of dancesport music all written authentically to the medium. MB had the opportunity to write three vocal themes for this game in collaboration with the talented Rita Kamishiro, Aika Sekiyama (関山 藍果) and Saskia Mascitti. ",
-        "additionalInfo": "Collaborated with Gelby and Jof; three vocal themes with Rita Kamishiro, Aika Sekiyama (関山 藍果), and Saskia Mascitti."
     },
     {
         "title": "King of Ping Pong: MEGAMIX",
