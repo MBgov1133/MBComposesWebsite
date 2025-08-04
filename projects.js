@@ -44,6 +44,18 @@ const projectsData = [
         "additionalInfo": "Collaborated with Gelby and Jof; three vocal themes with Rita Kamishiro, Aika Sekiyama (関山 藍果), and Saskia Mascitti."
     },
     {
+        "title": "Spirit Speedway",
+        "category": ["Game Jam"],
+        "link": "https://firefalls.itch.io/spirit-speedway",
+        "artwork": "images/ProjectArtwork/Spirit Speedway.png",
+        "developers": ["Philip Saguil", "Sami Najed", "Charlie Taylor", "Simon Stemberger", "Felix M", "MB", "Kikeols", "sincx"],
+        "releaseDate": "3/8/2025",
+        "dateString": "August 2025",
+        "role": "Music composition, sound effects",
+        "description": "You are a pair of soul-catching rascals that must speedrun to meet their boss' reincarnation quota! Collect souls to meet your quota, or suffer consequences. Finish quickly to receive a soul multiplier. There a total of three levels to enjoy in succession - if you lose, you will have to restart.",
+        "additionalInfo": "Made for Game Maker’s Toolkit Game Jam 25 in 96 hours.",
+    },
+    {
         "title": "Everlasting Ethos",
         "category": ["Resonant Union"],
         "link": "https://youtu.be/POahcc8x-fE",
