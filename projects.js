@@ -210,7 +210,7 @@ const projectsData = [
         "role": "Co-producer, music arrangement, lyricist, Japanese translation, video editor",
         "description": "GREEN ARRANGE is an official album for ZeroRanger produced in collaboration with <a href=\"https://se-made.com/\">System Erasure</a>. Enjoy nearly 3.5 hours of arrangements from System Erasure's iconic OST to ZeroRanger by composer eebrozgi! Journey through the cycle of ZeroRanger with 48 tracks, arranged by 44 incredible ZeroArrangers, featuring live performances from several musicians and vocalists.",
         "additionalInfo": "Collaboration with System Erasure. Features live performances and vocalists.",
-        "awards": "2025 Game Music Remix Award “Best Album” Winner",
+        "awards": "2025 Game Music Remix Awards “Best Album” Winner",
         "awardLinks": "https://vgmcon.org/2025-game-music-remix-awards/"
     },
     {
@@ -277,7 +277,7 @@ const projectsData = [
         "role": "Music arrangement (Track 10 \"Sight of Silence\")",
         "description": "Embark on a journey back to your childhood with this funky fan-tribute album to Nihon Falcom’s Gurumin: A Monstrous Adventure! Guru Guru Jam! is a 14-track experience that brings back the magic of friendship, and is sure to get you dancing!",
         "embed": "https://youtu.be/elaIbbXglyw",
-        "awards": "\"Best Album\" 2024 Game Music Remix Award Winner",
+        "awards": "\"Best Album\" 2024 Game Music Remix Awards Winner",
         "awardLinks": "https://vgmcon.org/2024-game-music-remix-awards/"
     },
     {
