@@ -44,6 +44,28 @@ const projectsData = [
         "additionalInfo": "Collaborated with Gelby and Jof; three vocal themes with Rita Kamishiro, Aika Sekiyama (関山 藍果), and Saskia Mascitti."
     },
     {
+        "title": "Project: Phantasia II -Blinding Dawn-",
+        "category": ["Misc"],
+        "link": "https://youtu.be/dq0ArdmhTCQ",
+        "artwork": "Project Phantasia II.jpg",
+        "publisher": "Prismatic Collections",
+        "releaseDate": "13/9/2025",
+        "dateString": "13 September, 2025",
+        "role": "Music composition (Track 3 \"暁の姫\")",
+        "description": "Project: Phantasia II -Blinding Dawn- is the second album in a series a fantasy compilation albums organised by SpiralFlip.<br> MB was invited to contribute a track for the album, composing a folk fusion-inspired track in collaboration with Iku Hoshifuri, who wrote the Japanese lyrics for the song.",
+    },
+    {
+        "title": "bucolic systems",
+        "category": ["Misc"],
+        "link": "https://technomarina.bandcamp.com/album/bucolic-systems",
+        "artwork": "images/AlbumCovers/bucolic systems.png",
+        "publisher": "Technomarina",
+        "releaseDate": "5/9/2025",
+        "dateString": "5 September, 2025",
+        "role": "Guitar & bass performance (Track 1 \"Flow of Nature and Humanity\" & Track 11 \"stellar_winds.exe\")",
+        "description": "bucolic systems is a love letter to the Frutiger Aero aesthetic, which was widely used in game and tech products from roughly 2004 to 2013. The goal of this album was to sonically capture the spirit of the aesthetic, often blending electronic and acoustic instrumentation. <br> MB had the opportunity to perform on two tracks for this album by fusoxide and Philip Saguil.",
+    },
+    {
         "title": "Spirit Speedway",
         "category": ["Game Jam"],
         "link": "https://firefalls.itch.io/spirit-speedway",
