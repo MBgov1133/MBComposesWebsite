@@ -47,7 +47,7 @@ const projectsData = [
         "title": "Project: Phantasia II -Blinding Dawn-",
         "category": ["Misc"],
         "link": "https://youtu.be/dq0ArdmhTCQ",
-        "artwork": "Project Phantasia II.jpg",
+        "artwork": "images/AlbumCovers/Project Phantasia II.jpg",
         "publisher": "Prismatic Collections",
         "releaseDate": "13/9/2025",
         "dateString": "13 September, 2025",
