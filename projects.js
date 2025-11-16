@@ -44,6 +44,18 @@ const projectsData = [
         "additionalInfo": "Collaborated with Gelby and Jof; three vocal themes with Rita Kamishiro, Aika Sekiyama (関山 藍果), and Saskia Mascitti."
     },
     {
+        "title": "ResoJam vol i: Resonant Prix",
+        "category": ["Resonant Union"],
+        "link": "https://resonantunion.bandcamp.com/album/resojam-vol-i-resonant-prix",
+        "artwork": "images/AlbumCovers/ResoJam vol i_ Resonant Prix.jpg",
+        "publisher": "Resonant Union",
+        "developerLink": "https://www.resonantunion.com/",
+        "releaseDate": "15/11/2025",
+        "dateString": "15 November, 2025",
+        "role": "Music composition (Track 17 \"midnight streak\")",
+        "description": "Ready your engines for an EXPXLOSIVE jazz fusion jam album! Dive into this 21 track all-original jazz fusion racing album, inspired by the iconic sounds of [insert popular racing video game with jazz fusion music here].",
+    },
+    {
         "title": "Project: Phantasia II -Blinding Dawn-",
         "category": ["Misc"],
         "link": "https://youtu.be/dq0ArdmhTCQ",
