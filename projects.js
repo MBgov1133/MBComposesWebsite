@@ -53,7 +53,7 @@ const projectsData = [
         "releaseDate": "31/12/2025",
         "dateString": "31 December, 2025",
         "role": "Music composition (Track 1-5 \"Entanglement\")",
-        "description": "The roots of the YGGDRASIL take shape and form, to create an ascension towards a new future. \"YGGDRASIL\" is KodamaSounds' 5th massive anniversary project, with the goal of celebrating the legacy and future of the circle."
+        "description": "The roots of the YGGDRASIL take shape and form, to create an ascension towards a new future. \"YGGDRASIL\" is KodamaSounds' 5th massive anniversary project, with the goal of celebrating the legacy and future of the circle.",
         "additionalInfo": "Released as part of Comic Market 107.",
     },
     {
