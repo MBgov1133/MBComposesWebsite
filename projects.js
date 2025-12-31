@@ -44,6 +44,19 @@ const projectsData = [
         "additionalInfo": "Collaborated with Gelby and Jof; three vocal themes with Rita Kamishiro, Aika Sekiyama (関山 藍果), and Saskia Mascitti."
     },
     {
+        "title": "Starlit Reverie",
+        "category": ["Resonant Union"],
+        "link": "https://youtu.be/dZCXZRGUxYA",
+        "artwork": "images/AlbumCovers/Starlit Reverie.jpg",
+        "publisher": "Resonant Union",
+        "developerLink": "https://www.resonantunion.com/",
+        "releaseDate": "28/12/2025",
+        "dateString": "28 December, 2025",
+        "role": "Music arrangement (Track 1-8 \"Happy Beach ~funny cat ver.~\" & Track 2-2 \"Traveler\"), video editor",
+        "description": "Starlit Reverie is a fan-tribute album to the Klonoa series of video games by NAMCO.",
+        "embed": "https://youtu.be/dZCXZRGUxYA",
+    },
+    {
         "title": "KAIJUxHUNT",
         "category": ["Game Jam"],
         "link": "https://jamtonyx.itch.io/kaijuxhunt",
