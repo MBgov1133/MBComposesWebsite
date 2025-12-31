@@ -44,6 +44,18 @@ const projectsData = [
         "additionalInfo": "Collaborated with Gelby and Jof; three vocal themes with Rita Kamishiro, Aika Sekiyama (関山 藍果), and Saskia Mascitti."
     },
     {
+        "title": "YGGDRASIL",
+        "category": ["Misc"],
+        "link": "https://kodamasounds.bandcamp.com/album/yggdrasil",
+        "artwork": "images/AlbumCovers/YGGDRASIL.png",
+        "publisher": "KodamaSounds",
+        "developerLink": "https://kodamasoft.net/",
+        "releaseDate": "31/12/2025",
+        "dateString": "31 December, 2025",
+        "role": "Music composition (Track 1-5 \"Entanglement\")",
+        "description": "The roots of the YGGDRASIL take shape and form, to create an ascension towards a new future. "YGGDRASIL" is KodamaSounds' 5th massive anniversary project, with the goal of celebrating the legacy and future of the circle."
+    },
+    {
         "title": "Starlit Reverie",
         "category": ["Resonant Union"],
         "link": "https://youtu.be/dZCXZRGUxYA",
