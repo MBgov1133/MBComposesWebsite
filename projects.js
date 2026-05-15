@@ -66,7 +66,7 @@ const projectsData = [
         "releaseDate": "26/04/2026",
         "dateString": "26 April, 2026",
         "role": "Music composition (Track 15 \"Waltz for the Ocean\")",
-        "description": "Ain't nothing like a good riff. Detuned Alloy 2 is the sequel album to our emblematic acoustic and sonic original compilation. Old and new blood mix for a perfect sequel worthy to be called a new successor and ambassador of the best rock the doujin scene can offer."
+        "description": "Ain't nothing like a good riff. Detuned Alloy 2 is the sequel album to our emblematic acoustic and sonic original compilation. Old and new blood mix for a perfect sequel worthy to be called a new successor and ambassador of the best rock the doujin scene can offer.",
     },
     {
         "title": "Chicory: A Musical Tale",
