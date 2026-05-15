@@ -53,7 +53,7 @@ const projectsData = [
         "releaseDate": "10/05/2026",
         "dateString": "10 May, 2026",
         "role": "Music arrangement (Track 11 \"まあまあじゃん〜a fantasy oasis〜\")",
-        "description": "SGFR kicks off its 5th anniversary celebration with the album no one knew they needed: Mahjong Bangers. Inspired by the eponymous YouTube uploader, we pay respect to the unexpectedly great soundtracks this overlooked genre has to offer with over 40 arrangements of Riichi Mahjong and Mahjong Solitaire games, featuring classics we all know and love such as BGM #05, BGM #08, Track 5, Generic 03 and much more!"
+        "description": "SGFR kicks off its 5th anniversary celebration with the album no one knew they needed: Mahjong Bangers. Inspired by the eponymous YouTube uploader, we pay respect to the unexpectedly great soundtracks this overlooked genre has to offer with over 40 arrangements of Riichi Mahjong and Mahjong Solitaire games, featuring classics we all know and love such as BGM #05, BGM #08, Track 5, Generic 03 and much more!",
         "embed": "https://youtu.be/VfqLCRtueBU",
     },
     {
